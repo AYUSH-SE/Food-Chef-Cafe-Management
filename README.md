@@ -1,50 +1,9 @@
 <<<<<<< HEAD
 # Food-Chef-Cafe-Management
 Food Chef is a cafe and restaurant management website with both user and admin panel.
+Food Chef Cafe Management is a comprehensive application designed to streamline the operations of a cafe or restaurant. This project offers an all-in-one solution for managing various aspects of the cafe business, including order processing, menu management, customer interactions, and staff coordination. It features an intuitive user interface that makes it easy for staff to handle daily tasks efficiently, ensuring smooth service delivery and enhanced customer satisfaction. With functionalities to track inventory, manage reservations, generate sales reports, and handle billing, Food Chef Cafe Management aims to optimize workflow, reduce manual errors, and improve overall operational efficiency. Whether you are running a small cafe or a larger restaurant, this application provides the tools you need to manage your business effectively.
 
-# Installation
-
-1. Install XAMPP or WAMPP.
-
-2. Open XAMPP Control panal and start [apache] and [mysql] .
-
-3. Download project from github(https://github.com/Sankhala-Rohit/Food-Chef-Cafe-Management.git)  
-    OR follow gitbash commands
-    
-    i>cd C:\\xampp\htdocs\
-    
-    ii>git clone https://github.com/Sankhala-Rohit/Food-Chef-Cafe-Management.git
-    
-4. extract files in C:\\xampp\htdocs\.
-
-5. open link localhost/phpmyadmin
-
-6. click on new at side navbar.
-
-7. give a database name as (project) hit on create button.
-
-8. after creating database name click on import.
-
-9. browse the file in directory[Food-Chef-Cafe-Management/database/project.sql].
-
-10. after importing successfully.
-
-11. open any browser and type http://localhost/project.
-
-12. For admin type http://localhost/project/admin.
-
-13. admin login details username = admin and Password = admin123.
-
-
-##  If you like my project hit a star button
-##  Thank You. Have A Good Day.
-
-<a href="https://twitter.com/RohitSankhla13">
-  <img align="left" alt=" Rohit Sankhla | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
-</a>
-<a href="https://www.instagram.com/sankhala_rohit">
-  <img align="left" alt="Rohit Sankhala's Instagram" width="22px" height="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
-</a>
-=======
-# Food-Chef-Cafe-Management-master
->>>>>>> 0617e7534515bf0a4170c8b07ad2a92a34306f40
+1) include admin 
+2) footer
+3) header
+4) used mysql database
