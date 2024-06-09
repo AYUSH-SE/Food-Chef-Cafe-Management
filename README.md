@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Food-Chef-Cafe-Management
 Food Chef is a cafe and restaurant management website with both user and admin panel.
 
@@ -44,3 +45,6 @@ Food Chef is a cafe and restaurant management website with both user and admin p
 <a href="https://www.instagram.com/sankhala_rohit">
   <img align="left" alt="Rohit Sankhala's Instagram" width="22px" height="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
 </a>
+=======
+# Food-Chef-Cafe-Management-master
+>>>>>>> 0617e7534515bf0a4170c8b07ad2a92a34306f40
