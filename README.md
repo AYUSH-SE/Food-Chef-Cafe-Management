@@ -18,9 +18,8 @@ Follow these steps to set up the Food Chef project on your local machine.
 2. **Download the Project**
    - Clone the repository using Git Bash:
      cd C:\xampp\htdocs\
-     git clone https://github.com/AYUSH-SE/Food-Chef-Cafe-Management-master.git
-
-   - Alternatively, [download the project from GitHub](https://github.com/AYUSH-SE/Food-Chef-Cafe-Management-master.git) and extract the files to `C:\xampp\htdocs\`.
+     git clone https://github.com/AYUSH-SE/Food-Chef-Cafe-Management.git
+   - Alternatively, [download the project from GitHub](https://github.com/AYUSH-SE/Food-Chef-Cafe-Management.git) and extract the files to `C:\xampp\htdocs\`.
 
 3. **Database Setup**
    - Open your browser and navigate to [phpMyAdmin](http://localhost/phpmyadmin).
