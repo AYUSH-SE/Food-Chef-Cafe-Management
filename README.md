@@ -1,14 +1,40 @@
-Food Chef Cafe Management is a comprehensive application designed to streamline the operations of a cafe or restaurant. This project offers an all-in-one solution for managing various aspects of the cafe business, including order processing, menu management, customer interactions, and staff coordination. It features an intuitive user interface, making it easy for staff to handle daily tasks efficiently, ensuring smooth service delivery and enhanced customer satisfaction. The backend is powered by robust data management capabilities for tracking inventory, managing reservations, generating sales reports, and handling billing. Food Chef Cafe Management aims to optimize workflow, reduce manual errors, and improve overall operational efficiency. Whether you are running a small cafe or a larger restaurant, this application provides the tools you need to manage your business effectively.
+# Food-Chef-Cafe-Management
 
-Technologies Used:
+Food Chef is a comprehensive cafe and restaurant management website, featuring both user and admin panels for streamlined operations.
 
-Frontend:
-HTML
-CSS
-JavaScript
+## Installation Guide
 
-Backend:
-PHP
+Follow these steps to set up the Food Chef project on your local machine.
 
-Database:
-MySQL
+### Prerequisites
+- **XAMPP or WAMPP**: Download and install one of these web server solutions.
+
+### Setup Instructions
+
+1. **Start XAMPP/WAMPP Services**
+   - Open the XAMPP Control Panel.
+   - Start the `[Apache]` and `[MySQL]` modules.
+
+2. **Download the Project**
+   - Clone the repository using Git Bash:
+     cd C:\xampp\htdocs\
+     git clone https://github.com/Sankhala-Rohit/Food-Chef-Cafe-Management.git
+
+   - Alternatively, [download the project from GitHub](https://github.com/Sankhala-Rohit/Food-Chef-Cafe-Management.git) and extract the files to `C:\xampp\htdocs\`.
+
+3. **Database Setup**
+   - Open your browser and navigate to [phpMyAdmin](http://localhost/phpmyadmin).
+   - Click on the "New" option in the sidebar.
+   - Create a new database named `project`.
+   - After creating the database, click on the "Import" tab.
+   - Browse and select the SQL file located at `Food-Chef-Cafe-Management/database/project.sql`.
+   - Click "Go" to import the database.
+
+4. **Run the Project**
+   - Open any browser and go to:
+     - [User Panel](http://localhost/project)
+     - [Admin Panel](http://localhost/project/admin)
+
+5. **Admin Login Details**
+   - **Username**: `admin`
+   - **Password**: `admin123`
